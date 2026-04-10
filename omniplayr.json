@@ -9,5 +9,7 @@
       "hash": "7806f38e9c2abc410c5533744f070bcf147ab5f9d746e50ba8e83f38f79b6235"
     }
   },
-  "bin": "omniplayr-win.exe"
+  "bin": [
+    ["omniplayr-win.exe", "omniplayr"]
+  ]
 }
