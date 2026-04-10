@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "description": "OmniPlayr CLI",
+  "homepage": "https://github.com/OmniPlayr/OmniPlayr-CLI",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/OmniPlayr/OmniPlayr-CLI/releases/download/v1.0.0/omniplayr-win.exe",
+      "hash": "PLACEHOLDER"
+    }
+  },
+  "bin": "omniplayr-win.exe"
+}
